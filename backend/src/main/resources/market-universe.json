@@ -1,0 +1,19 @@
+{
+  "us": {
+    "indices": ["SPY", "QQQ", "DIA", "IWM", "VTI"],
+    "tech": ["AAPL", "MSFT", "GOOGL", "AMZN", "NVDA", "META", "TSLA", "AMD", "INTC", "ORCL", "NFLX", "CRM", "AVGO", "CSCO", "ADBE"],
+    "finance": ["JPM", "BAC", "GS", "MS", "V", "MA", "AXP", "PYPL"],
+    "healthcare": ["JNJ", "PFE", "UNH", "ABBV", "LLY", "MRK", "TMO"],
+    "energy": ["XOM", "CVX", "COP", "SLB"],
+    "consumer": ["WMT", "COST", "NKE", "MCD", "DIS", "SBUX", "KO", "PEP"]
+  },
+  "in": {
+    "indices": ["^NSEI", "^BSESN", "^NSEBANK"],
+    "tech": ["INFY.NS", "TCS.NS", "WIPRO.NS", "HCLTECH.NS", "TECHM.NS", "LTIM.NS"],
+    "finance": ["HDFCBANK.NS", "ICICIBANK.NS", "SBIN.NS", "AXISBANK.NS", "KOTAKBANK.NS", "BAJFINANCE.NS", "CHOLAFIN.NS"],
+    "auto": ["TATAMOTORS.NS", "MARUTI.NS", "M&M.NS", "BAJAJAUTO.NS", "EICHERMOT.NS"],
+    "conglomerate": ["RELIANCE.NS", "ADANIENT.NS", "TATASTEEL.NS", "ITC.NS", "LT.NS", "TITAN.NS"],
+    "pharma": ["SUNPHARMA.NS", "DRREDDY.NS", "CIPLA.NS", "DIVISLAB.NS", "APOLLOHOSP.NS"]
+  },
+  "crypto": ["BTC", "ETH", "SOL", "BNB", "XRP", "DOGE", "ADA", "AVAX", "LINK", "DOT"]
+}
